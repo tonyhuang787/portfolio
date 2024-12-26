@@ -28,10 +28,10 @@ info = {'brief':
                 I am a passionate and curious explorer currently pursuing a Computer Science and Anthropology major at Brandeis University, expected to graduate in May 2025.
                 **I believe in the intersectionality of quantitative and qualitative subjects, that neither approach alone can lead one to the absolute truth.**
               """,
-        'name':'Haoran cheng', 
+        'name':'Tony Huang', 
         'study':'Brandeis University',
-        'location':'Boston, MA',
-        'interest':'Full Stack, Data Science, Product Management',
+        'location':'Chicago, ML',
+        'interest':'Statistics, Data Science, Product Management',
         'skills':['Python','Java','Javascript','Typescript','Shell','HTML & CSS','React','Node.js','Tableau','Streamlit','PySpark','Svelte','Docker','Kafka','Kubernetes','MongoDB','PostgreSQL','MySQL','SQLite','AWS','Github','Gitlab','Figma','OpenAI API','Excalidraw','Trello','REST api','HTTP'],
         }
 
